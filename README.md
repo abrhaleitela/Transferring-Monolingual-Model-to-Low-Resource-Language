@@ -4,7 +4,7 @@
 Documenation is coming soon with full code!
 
 ## Proposed Method:
-<img src="data/proposed.png" height = "380" width ="660" >
+<img src="data/proposed.png" height = "380" width ="760" >
 
 
 
