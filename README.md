@@ -3,6 +3,8 @@
 
 Documenation is coming soon with full code!
 
+All files are IPython Notebook files which can be run simply in Google Colab
+
 ## Main files:
  - Train.ipynb : Fine-tunes XLNet (mono-lingual transformer) on new target language (Tigrinya)
  - Test.ipynb : Evaluates the fine-tuned model on test data 
