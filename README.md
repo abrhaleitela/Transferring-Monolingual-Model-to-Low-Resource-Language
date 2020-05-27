@@ -4,7 +4,7 @@
 Documenation is coming soon with full code!
 
 ## Proposed Method:
-<img src="data/dim-reduction.png" height = "230" width ="460" >
+<img src="data/proposed.png" height = "230" width ="460" >
 
 
 
