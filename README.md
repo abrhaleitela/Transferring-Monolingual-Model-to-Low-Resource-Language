@@ -77,4 +77,65 @@ The proposed method transfers a mono-lingual Transformer model into new target l
         
   - Cross-lingual Sentiment dataset ([CLS](https://zenodo.org/record/3251672#.Xs65VzozbIU))
   
+  
+  <table>
+    <thead>
+        <tr>
+            <th rowspan=2><sub>Models</sub></th>
+            <th rowspan=1 colspan=3><sub>English</sub></th>
+            <th rowspan=1 colspan=3><sub>German</sub></th>
+            <th rowspan=1 colspan=3><sub>French</sub></th>
+            <th rowspan=1 colspan=3><sub>Japanese</sub></th>
+            <th rowspan=2><sub>Average</sub></th>
+        </tr>
+        <tr>
+            <th colspan=1><sub>Books</sub></th>
+            <th colspan=1><sub>DVD</sub></th>
+            <th colspan=1><sub>Music</sub></th>
+            <th colspan=1><sub>Books</sub></th>
+            <th colspan=1><sub>DVD</sub></th>
+            <th colspan=1><sub>Music</sub></th>
+            <th colspan=1><sub>Books</sub></th>
+            <th colspan=1><sub>DVD</sub></th>
+            <th colspan=1><sub>Music</sub></th>
+            <th colspan=1><sub>Books</sub></th>
+            <th colspan=1><sub>DVD</sub></th>
+            <th colspan=1><sub>Music</sub></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan=1><sub>XLNet</sub></td>
+            <td colspan=1><sub><strong>92.90</strong></sub></td>
+            <td colspan=1><sub><strong>93.31</strong></sub></td>
+            <td colspan=1><sub><strong>92.02</strong></sub></td>
+            <td colspan=1><sub>85.23</sub></td>
+            <td colspan=1><sub>83.30</sub></td>
+            <td colspan=1><sub>83.89</sub></td>
+            <td colspan=1><sub>73.05</sub></td>
+            <td colspan=1><sub>69.80</sub></td>
+            <td colspan=1><sub>70.12</sub></td>
+            <td colspan=1><sub>83.20</sub></td>
+            <td colspan=1><sub><strong>86.07</strong></sub></td>
+            <td colspan=1><sub>85.24</sub></td>
+            <td colspan=1><sub>83.08</sub></td>
+        </tr>
+        <tr>
+            <td colspan=1><sub>mBERT</sub></td>
+            <td colspan=1><sub>92.78</sub></td>
+            <td colspan=1><sub>90.30</sub></td>
+            <td colspan=1><sub>91.88</sub></td>
+            <td colspan=1><sub><strong>88.65</strong></sub></td>
+            <td colspan=1><sub><strong>85.85</strong></sub></td>
+            <td colspan=1><sub><strong>90.38</strong></sub></td>
+            <td colspan=1><sub><strong>91.09</strong></sub></td>
+            <td colspan=1><sub><strong>88.57</strong></sub></td>
+            <td colspan=1><sub><strong>93.67</strong></sub></td>
+            <td colspan=1><sub><strong>84.35</strong></sub></td>
+            <td colspan=1><sub>81.77</sub></td>
+            <td colspan=1><sub><strong>87.53</strong></sub></td>
+            <td colspan=1><sub><strong>88.90</strong></sub></td>
+        </tr> 
+    </tbody>
+</table> 
  
