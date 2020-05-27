@@ -3,7 +3,13 @@
 
 Documenation is coming soon with full code!
 
-All files are IPython Notebook files which can be run simply in Google Colab
+## Proposed Method:
+![alt text](https://github.com/[abryeemessi]/[Transferring-Monolingual-Model-to-Low-Resource-Language]/blob/[master]/data/dim-reduction.png?raw=true)
+
+
+
+
+
 
 ## Main files:
  - Train.ipynb : Fine-tunes XLNet (mono-lingual transformer) on new target language (Tigrinya)
@@ -12,4 +18,7 @@ All files are IPython Notebook files which can be run simply in Google Colab
  - Text_processing_for_language_identification.ipynb : Extracts Tigrinya comments from mixed language contents
  - YouTube_comment_downloader.ipynb : Download all avaialble comments from a YouTube channel (Channel ID as input)
  - auto_labelling.ipynb : Automatically labels Tigrinya comments in to positive or negative sentiments 
+ 
+ All files are IPython Notebook files which can be run simply in Google Colab
+ ## 
  
