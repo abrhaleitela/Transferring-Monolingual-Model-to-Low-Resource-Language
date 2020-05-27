@@ -4,9 +4,7 @@
 Documenation is coming soon with full code!
 
 ## Proposed Method:
-![alt text](https://github.com/[abryeemessi]/[Transferring-Monolingual-Model-to-Low-Resource-Language]/blob/[master]/data/dim-reduction.png?raw=true)
-
-
+<img src="data/dim-reduction.png" height = "230" width ="460" >
 
 
 
