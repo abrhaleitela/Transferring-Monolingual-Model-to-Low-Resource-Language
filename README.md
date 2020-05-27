@@ -25,6 +25,8 @@ The proposed method transfers a mono-lingual Transformer model into new target l
   - A newly created sentiment analysis dataset for low-resorce language (Tigriyna) 
    
   <table>
+   <tr>
+    <td> <table>
     <thead>
         <tr>
             <th><sub>Models</sub></th>
@@ -73,7 +75,12 @@ The proposed method transfers a mono-lingual Transformer model into new target l
             <td><strong><sub>81.62</sub></strong></td>
         </tr>
     </tbody>
-</table>
+</table> </td>
+      <td><img src="data/effect_of_dataset_size.png" alt="3" width = 440px height = 280px></td>
+  </tr>
+ </table>
+
+  
         
   - Cross-lingual Sentiment dataset ([CLS](https://zenodo.org/record/3251672#.Xs65VzozbIU))
   
