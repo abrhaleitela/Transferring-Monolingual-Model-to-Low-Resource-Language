@@ -17,6 +17,12 @@ The proposed method transfers a mono-lingual Transformer model into new target l
  - YouTube_comment_downloader.ipynb : Download all avaialble comments from a YouTube channel (Channel ID as input)
  - auto_labelling.ipynb : Automatically labels Tigrinya comments in to positive or negative sentiments 
  
- All files are IPython Notebook files which can be run simply in Google Colab
- ## 
+ All files are IPython Notebook files which can be excuted simply in Google Colab
+ 
+ ## Evaluation
+ 
+ The proposed method is evaluated using two datasets:
+  - A newly created sentiment analysis dataset for low-resorce language (Tigriyna) 
+  - Cross-lingual Sentiment dataset ([CLS](https://zenodo.org/record/3251672#.Xs65VzozbIU))
+  
  
