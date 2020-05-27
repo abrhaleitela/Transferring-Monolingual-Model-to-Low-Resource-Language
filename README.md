@@ -76,7 +76,7 @@ The proposed method transfers a mono-lingual Transformer model into new target l
         </tr>
     </tbody>
 </table> </td>
-      <td><img src="data/effect_of_dataset_size.png" alt="3" width = 440px height = 280px></td>
+      <td><img src="data/effect_of_dataset_size.png" alt="3" width = 480px height = 280px></td>
   </tr>
  </table>
 
