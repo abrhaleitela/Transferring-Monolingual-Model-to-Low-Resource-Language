@@ -24,7 +24,7 @@ The proposed method transfers a mono-lingual Transformer model into new target l
  ## Evaluation
  
  The proposed method is evaluated using two datasets:
-  - A newly created sentiment analysis dataset for low-resorce language (Tigriyna) 
+  - A newly created sentiment analysis dataset for low-resource language (Tigriyna) 
    
   <table>
    <tr>
