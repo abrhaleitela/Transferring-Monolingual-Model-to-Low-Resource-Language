@@ -7,8 +7,6 @@
 
 The proposed method transfers a mono-lingual Transformer model into new target language at lexical level by learning new token embeddings. All implementation in this repo uses XLNet as a source Transformer model, however, other Transformer models can also be used similarly. 
 
-## TigXLNet:
-
 
 ## Main files:
 All files are IPython Notebook files which can be excuted simply in Google Colab.
