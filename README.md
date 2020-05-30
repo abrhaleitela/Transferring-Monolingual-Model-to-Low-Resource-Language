@@ -14,15 +14,15 @@ The proposed method transfers a mono-lingual Transformer model into new target l
 ## Main files:
 All files are IPython Notebook files which can be excuted simply in Google Colab.
 
- - Train.ipynb : Fine-tunes XLNet (mono-lingual transformer) on new target language (Tigrinya).  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb#scrollTo=8QAWNjizy_3O)
+ - train.ipynb : Fine-tunes XLNet (mono-lingual transformer) on new target language (Tigrinya).  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb#scrollTo=8QAWNjizy_3O)
  
- - Test.ipynb : Evaluates the fine-tuned model on test data.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
+ - test.ipynb : Evaluates the fine-tuned model on test data.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
  
- - Word2Vec_token_embeddings_for_xlnet.ipynb : Trains a word2vec token embeddings for Tigrinya language to be used for XLNet embeddings.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
+ - token_embeddings.ipynb : Trains a word2vec token embeddings for Tigrinya language to be used for XLNet embeddings.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
  
- - Text_processing_for_language_identification.ipynb : Extracts Tigrinya comments from mixed language contents.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
+ - process_Tigrinya_comments.ipynb : Extracts Tigrinya comments from mixed language contents.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
  
- - YouTube_comment_downloader.ipynb : Download all available comments from a YouTube channel (Channel ID as input).  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
+ - extract_YouTube_comments.ipynb : Download all available comments from a YouTube channel (Channel ID as input).  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
  
  - auto_labelling.ipynb : Automatically labels Tigrinya comments in to positive or negative sentiments based on [Emoji's sentiment](http://kt.ijs.si/data/Emoji_sentiment_ranking/).    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
  
