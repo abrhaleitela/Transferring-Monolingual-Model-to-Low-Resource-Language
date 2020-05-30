@@ -156,3 +156,7 @@ All files are IPython Notebook files which can be excuted simply in Google Colab
     </tbody>
 </table> 
  
+ ###TODO:
+- [ ] Add public links to Tigrinya sentiment analysis dataset, TigXLNet model and Tigrinya tokenizer
+
+- [ ] Open a pull request
