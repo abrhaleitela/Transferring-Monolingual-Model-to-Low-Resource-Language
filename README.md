@@ -1,7 +1,6 @@
 # Transferring Monolingual Model to Low-Resource Language: The Case Of Tigrinya:
 
 
-Documenation is coming soon with full code!
 
 ## Proposed Method:
 <img src="data/proposed.png" height = "330" width ="760" >
