@@ -28,11 +28,11 @@ All files are IPython Notebook files which can be excuted simply in Google Colab
 
 A [sentencepiece](https://github.com/google/sentencepiece) based tokenizer for Tigrinya has been released to the public and can be accessed as in the following:
 
-     """
+     
      from transformers import AutoTokenizer
      tokenizer = AutoTokenizer.from_pretrained("abryee/TigXLNet")
-     tokenizer.tokenize("አንተሓመመከ ድሙ አለካ ኣለኩ")
-    """
+     tokenizer.tokenize("ዋዋዋው እዛ ፍሊም ካብተን ዘድንቀን ሓንቲ ኢያ ሞ ብጣዕሚ ኢና ነመስግን ሓንቲ ክብላ ደልየ ዘሎኹ ሓደራኣኹም ኣብ ጊዜኹም ተረክቡ")
+    
 
  
  ## Evaluation:
