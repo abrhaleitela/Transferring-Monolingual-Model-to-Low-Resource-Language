@@ -34,6 +34,13 @@ A [sentencepiece](https://github.com/google/sentencepiece) based tokenizer for T
      tokenizer.tokenize("ዋዋዋው እዛ ፍሊም ካብተን ዘድንቀን ሓንቲ ኢያ ሞ ብጣዕሚ ኢና ነመስግን ሓንቲ ክብላ ደልየ ዘሎኹ ሓደራኣኹም ኣብ ጊዜኹም ተረክቡ")
     
 
+ ## TigXLNet:
+ A new transformer model for low-resource language Tigrinya is also released publically and be accessed as in the following:
+    
+    from transformers import AutoConfig, AutoModel
+    config = AutoConfig.from_pretrained("abryee/TigXLNet")
+    config.d_head = 64
+    model = AutoModel.from_pretrained("abryee/TigXLNet", config=config)
  
  ## Evaluation:
  
