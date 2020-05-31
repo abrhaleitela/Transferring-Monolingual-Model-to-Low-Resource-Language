@@ -24,6 +24,10 @@ All files are IPython Notebook files which can be excuted simply in Google Colab
  - auto_labelling.ipynb : Automatically labels Tigrinya comments in to positive or negative sentiments based on [Emoji's sentiment](http://kt.ijs.si/data/Emoji_sentiment_ranking/).    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wnZf7CBBCIr966vRUITlxKCrANsMPpV7?usp=sharing)
  
  
+## Tigrinya Tokenizer: 
+
+A [!sentencepiece](https://github.com/google/sentencepiece) based tokenizer for Tigrinya has been released to the public and can be accessed as in the following:
+
 
 
  
