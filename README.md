@@ -35,7 +35,7 @@ A [sentencepiece](https://github.com/google/sentencepiece) based tokenizer for T
     
 
  ## TigXLNet:
- A new transformer model for low-resource language Tigrinya is also released publically and be accessed as in the following:
+ A new general purpose transformer model for low-resource language Tigrinya is also released to the public and be accessed as in the following:
     
     from transformers import AutoConfig, AutoModel
     config = AutoConfig.from_pretrained("abryee/TigXLNet")
