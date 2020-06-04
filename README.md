@@ -170,4 +170,5 @@ A [sentencepiece](https://github.com/google/sentencepiece) based tokenizer for T
 </table> 
  
  ### TODO:
-- [ ] Add public links to Tigrinya sentiment analysis dataset
+- [ ] Add public link to Tigrinya sentiment analysis dataset
+- [ ] Add arXiv link of our paper
