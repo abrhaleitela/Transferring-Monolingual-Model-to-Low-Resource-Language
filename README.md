@@ -11,7 +11,7 @@ The proposed method transfers a mono-lingual Transformer model into new target l
 ## Main files:
 All files are IPython Notebook files which can be excuted simply in Google Colab.
 
- - train.ipynb : Fine-tunes XLNet (mono-lingual transformer) on new target language (Tigrinya).  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bSSrKE-TSphUyrNB2UWhFI-Bkoz0a5l0?usp=sharing)
+ - train.ipynb : Fine-tunes XLNet (mono-lingual transformer) on new target language (Tigrinya) sentiment analysis dataset.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bSSrKE-TSphUyrNB2UWhFI-Bkoz0a5l0?usp=sharing)
  
  - test.ipynb : Evaluates the fine-tuned model on test data.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17R1lvRjxILVNk971vzZT79o2OodwaNIX?usp=sharing)
  
