@@ -173,7 +173,7 @@ A [sentencepiece](https://github.com/google/sentencepiece) based tokenizer for T
 
 ## Citing our paper:
  
- If you use our work, please consider citing our work.
+ Our paper can be accessed from ArXiv ([link](https://arxiv.org/pdf/2006.07698.pdf)), and please consider citing our work.
  
      @misc{tela2020transferring,
           title={Transferring Monolingual Model to Low-Resource Language: The Case of Tigrinya},
@@ -188,4 +188,3 @@ A [sentencepiece](https://github.com/google/sentencepiece) based tokenizer for T
  
  ### TODO:
 - [ ] Add public link to Tigrinya sentiment analysis dataset
-- [ ] Add arXiv link of our paper
