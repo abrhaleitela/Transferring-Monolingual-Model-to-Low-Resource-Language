@@ -168,7 +168,7 @@ A [sentencepiece](https://github.com/google/sentencepiece) based tokenizer for T
         </tr> 
     </tbody>
 </table> 
- ### Citing our paper
+## Citing our paper:
  
  If you use our work, please consider citing our work.
  
