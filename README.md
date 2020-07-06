@@ -168,6 +168,20 @@ A [sentencepiece](https://github.com/google/sentencepiece) based tokenizer for T
         </tr> 
     </tbody>
 </table> 
+ ### Citing our paper
+ 
+ If you use our work, please consider citing our work.
+ 
+     @misc{tela2020transferring,
+          title={Transferring Monolingual Model to Low-Resource Language: The Case of Tigrinya},
+          author={Abrhalei Tela and Abraham Woubie and Ville Hautamaki},
+          year={2020},
+          eprint={2006.07698},
+          archivePrefix={arXiv},
+          primaryClass={cs.CL}
+      }
+
+
  
  ### TODO:
 - [ ] Add public link to Tigrinya sentiment analysis dataset
