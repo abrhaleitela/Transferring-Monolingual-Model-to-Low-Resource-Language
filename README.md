@@ -169,7 +169,8 @@ A [sentencepiece](https://github.com/google/sentencepiece) based tokenizer for T
     </tbody>
 </table> 
 
-
+## Dataset used for this paper:
+We have constructed new sentiment analysis dataset for Tigrinya language and it can be found in the zip file (Tigrinya Sentiment Analysis Dataset)
 
 ## Citing our paper:
  
@@ -185,6 +186,4 @@ A [sentencepiece](https://github.com/google/sentencepiece) based tokenizer for T
       }
 
 
- 
- ### TODO:
-- [ ] Add public link to Tigrinya sentiment analysis dataset
+
